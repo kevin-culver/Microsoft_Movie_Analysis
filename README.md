@@ -88,7 +88,7 @@ To further improve on the analysis done in this project. The following steps are
 
 2. **Analyze film characteristics among highly rated films.** The current project concluded  that movies with higher ratings (6.0 or higher) performed better at the box office; however, this finding is quite vague and doesn't produce tangible actions. To improve on this finding, further analysis could be conducted to find characteristics shared among highly-rated movies (e.g., screen-writing, visual effects, fan base, actors, directors).
 
-3. **Perform similar analysis with more recent movies.** One of the main limitations of this project was that it contained movies up to 2019, but did not include movies from 2020 or 2021. To see if these trends continue with more recent movies, it is recommended to collect and analyze data from more recent films.
+3. **Perform similar analysis with more recent movies (2020 onward).** One of the main limitations of this project was that it contained movies up to 2019, but did not include movies from 2020 or 2021. To see if these trends continue with more recent movies, it is recommended to collect and analyze data from more recent films.
 
 ## For More Information
 
