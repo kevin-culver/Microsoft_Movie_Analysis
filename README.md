@@ -92,7 +92,7 @@ To further improve on the analysis done in this project. The following steps are
 
 ## For More Information
 
-Please review my full analysis in [our Jupyter Notebook](./Microsoft_Movie_Analysis.ipynb) or my [presentation](./Microsoft_Movie_Presentation.pdf).
+Please review the full analysis in [my Jupyter Notebook](./Microsoft_Movie_Analysis.ipynb) or my [presentation](./Microsoft_Movie_Presentation.pdf).
 
 For any additional questions, please contact:
 
