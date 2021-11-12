@@ -100,12 +100,11 @@ For any additional questions, please contact:
 
 ## Repository Structure
 
-Describe the structure of your repository and its contents, for example:
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
+├── Microsoft_Movies_Analysis.ipynb     <- Narrative documentation of data analysis in Jupyter notebook
+├── Microsoft_Movies_Presentation.pdf   <- PDF version of project presentation
+├── zippedData                          <- Data files used in analysis and Jupyter notebook
 └── images                              <- Both sourced externally and generated from code
 ```
