@@ -49,7 +49,7 @@ The *least profitable* movie genres are:
 
 ### Release Month and Profit:
 
-Historically, the summer months (May-July) are the highest profit months for releasing a movie; whereas the fall months (August-October) are not ideal for releasing a movie due to lower proift and performance.
+Historically, the summer months (May-July) are the highest profit months for releasing a movie; whereas the fall months (August-October) are not ideal for releasing a movie due to lower profit and performance.
 
 <img src="images/month_profit.png" width=90% />
 
@@ -88,7 +88,7 @@ To further improve on the analysis done in this project. The following steps are
 
 2. **Analyze film characteristics among highly rated films.** The current project concluded  that movies with higher ratings (6.0 or higher) performed better at the box office; however, this finding is quite vague and doesn't produce tangible actions. To improve on this finding, further analysis could be conducted to find characteristics shared among highly-rated movies (e.g., screen-writing, visual effects, fan base, actors, directors).
 
-3. **Perform similar analysis with more recent movies.** One of the main limitations of this project was that it contained movies up to 2019, but did not include movies from 2020 or 2021. To see if these trends continue with more recent movies, it is recommended to collect and analyze data from more recent films.
+3. **Perform similar analysis with more recent movies (2020 onward).** One of the main limitations of this project was that it contained movies up to 2019, but did not include movies from 2020 or 2021. To see if these trends continue with more recent movies, it is recommended to collect and analyze data from more recent films.
 
 ## For More Information
 
@@ -100,12 +100,11 @@ For any additional questions, please contact:
 
 ## Repository Structure
 
-Describe the structure of your repository and its contents, for example:
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
+├── Microsoft_Movies_Analysis.ipynb     <- Narrative documentation of data analysis in Jupyter notebook
+├── Microsoft_Movies_Presentation.pdf   <- PDF version of project presentation
+├── zippedData                          <- Data files used in analysis and Jupyter notebook
 └── images                              <- Both sourced externally and generated from code
 ```
