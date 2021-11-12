@@ -51,6 +51,7 @@ The *least profitable* movie genres are:
 Historically, the summer months (May-July) are the highest profit months for movie release; whereas the fall months (August-October) are not ideal for releasing a movie. 
 
 <img src="images/month_profit.png" width=90% />
+
 ### Budget Size and Profit:
 
 There is a relatively strong correlation between budget size and profit, meaning that movies with larger budgets are more likely to earn higher profit. 
@@ -58,6 +59,7 @@ There is a relatively strong correlation between budget size and profit, meaning
 The median budget is 18 million dollars and the top 25% of movies spend over 45 million dollars on their budgets. 
 
 <img src = "images/budget_profit.png" width=90%/>
+
 ### Average Rating and Profit: 
 
 The average rating for a movie is 6.2. Movies that earn higher than a 6.2 are more likely to also have higher profits. The visual below confirms this. 
