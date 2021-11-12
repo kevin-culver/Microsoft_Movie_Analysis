@@ -1,16 +1,16 @@
 # Microsoft Movie Production Analysis
 
-***
+
 - **Authors**: Kevin Culver
 
  <img src = "./images/movie_posters.jpeg" width = 75%, align = center/>
 
 ## Overview
-***
+
 The aim of the current project was to provide actionable insights for Microsoft as it launches a new movie production studio. The project analyzed databases to identify variables that contribute to a movie's success at the box office. Analysis showed that certain factors, such as a film's genre, budget, rating, or release date were related to higher profit and return on investment.
 
 ## Business Problem
-***
+
 Creating a successful movie studio takes time, money, and risk. However, a company cannot predict how the movies it produces will be received. Therefore, the point of this analysis was to find what qualities are shared by high grossing films that make them successful. For the present analysis, four questions were asked:
 1. *What movie genres are most successful?*
 2. *What time of year is best to release films?*
@@ -21,20 +21,20 @@ By analyzing these questions, business recommendations can be provided that will
 
 
 ## Data
-***
+
 The data used in this project comes from two online movie databases - IMDb and The Numbers. Within these databases, each movie is identified by its title or movie id. When combined, these databases provide comprehensive information for each movie, including its genre, rating, release date, budget, and total gross (both domestic and worldwide).
 
 ## Methods
-***
+
 This project primarily uses descriptive analysis. The data was analyzed by organizing movies categorically (e.g., by genre) or by visualizing variables using distributions. By visualizing the data using distributions, patterns, relationships, and trends were easy to document and evaluate. 
 
 
 ## Results
-***
+
 For each business question, the results are briefly summarized followed by a visualization of the results.
 
 ### Genre and Profit:
-***
+
 The *most profitable* and successful movies genres are:  
 1. Animation
 2. Adventure
@@ -47,17 +47,17 @@ The *least profitable* movie genres are:
 <img src="images/genre_profit.png" width=90%/>
 
 ### Release Month and Profit:
-***
+
 Historically, the summer months are the highest profit months for movie release; whereas the fall months are not ideal for releasing a movie. 
 <img src="images/month_profit.png" width=90% />
 ### Budget Size and Profit:
-***
+
 There is a relatively strong correlation between budget size and profit, meaning that movies with larger budgets are more likely to earn higher profit. 
 
 The median budget is 18 million dollars and the top 25% of movies spend over 45 million dollars on their budgets. 
 <img src = "images/budget_profit.png" width=90%/>
 ### Average Rating and Profit: 
-***
+
 The average rating for a movie is 6.2. Movies that earn higher than a 6.2 are more likely to also have higher profits. The visual below confirms this. 
 
 The distribution shows that there is a higher density of movies that earn more 72 million dollars in profit (horizontal line) after movies surpass a 6.2 rating (vertical line).
@@ -65,7 +65,7 @@ The distribution shows that there is a higher density of movies that earn more 7
 
 
 ## Conclusions
-***
+
 
 The evaluation of the data above leads to four business recommendations for Microsoft's entry into movie production.
 
@@ -75,7 +75,7 @@ The evaluation of the data above leads to four business recommendations for Micr
 4.	**Strive to release movies that earn at least a 6.2 rating.** Movies that earn higher than a 6.2 average rating are more likely to be successful at the box office and earn greater than 72 million dollars in profit.
 
 ## Next Steps
-*** 
+
 To further improve on the analysis done in this project. The following steps are recommended:
 
 1. **Analyze the budgets of high-grossing, high budget films.** Several factors could contribute to higher budget films having higher profits (e.g., better marketing, top-tier producers and actors, better visual effects). Future research could look into budget distribution to obtain n insights for how to best allocate resources. 
@@ -85,7 +85,7 @@ To further improve on the analysis done in this project. The following steps are
 3. **Perform similar analysis with more recent movies.** One of the main limitations of this project was that it contained movies up to 2019, but did not include movies from 2020 or 2021. To see if these trends continue with more recent movies, it is recommended to collect and analyze data from more recent films.
 
 ## For More Information
-***
+
 Please review our full analysis in [our Jupyter Notebook](./Microsoft_Movie_Analysis.ipynb) or our [presentation](./Microsoft_Movie_Presentation.pdf).
 
 For any additional questions, please contact:
@@ -93,7 +93,7 @@ For any additional questions, please contact:
  - **Kevin Culver**: culver.coffee@gmail.com
 
 ## Repository Structure
-***
+
 Describe the structure of your repository and its contents, for example:
 
 ```
