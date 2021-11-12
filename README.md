@@ -49,7 +49,7 @@ The *least profitable* movie genres are:
 
 ### Release Month and Profit:
 
-Historically, the summer months (May-July) are the highest profit months for releasing a movie; whereas the fall months (August-October) are not ideal for releasing a movie due to lower proift and performance.
+Historically, the summer months (May-July) are the highest profit months for releasing a movie; whereas the fall months (August-October) are not ideal for releasing a movie due to lower profit and performance.
 
 <img src="images/month_profit.png" width=90% />
 
