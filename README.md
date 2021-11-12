@@ -36,19 +36,20 @@ For each business question, the results are briefly summarized followed by a vis
 ### Genre and Profit:
 
 The *most profitable* and successful movies genres are:  
-1. Animation
-2. Adventure
-3. Sci-Fi
+1. Animation ($236 million)
+2. Adventure ($217 million)
+3. Sci-fi ($189 million)
 
 The *least profitable* movie genres are: 
-1. Documentary 
-2. War
-3. Western
+1. Documentary ($24.6 million)
+2. War ($25.6 million)
+3. Western ($13.2 million)
+
 <img src="images/genre_profit.png" width=90%/>
 
 ### Release Month and Profit:
 
-Historically, the summer months (May-July) are the highest profit months for movie release; whereas the fall months (August-October) are not ideal for releasing a movie. 
+Historically, the summer months (May-July) are the highest profit months for releasing a movie; whereas the fall months (August-October) are not ideal for releasing a movie due to lower proift and performance.
 
 <img src="images/month_profit.png" width=90% />
 
